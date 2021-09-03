@@ -1,1 +1,3 @@
 git remote add <repositiryName><link>
+
+git push -f <destination> <branch_name>
