@@ -1,1 +1,5 @@
 Git is version control System for repository
+
+Command:
+
+git add . ---> dot is for adding all files
